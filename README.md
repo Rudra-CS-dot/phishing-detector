@@ -30,10 +30,6 @@ The app works fully offline with just the rule engine. Add a free Google
 Safe Browsing API key to also cross-check against real-world confirmed
 threats.
 
-## Screenshot
-
-![URLGuard screenshot](docs/screenshot.png)
-
 ## Tech stack
 
 - **Backend:** Python, Flask
